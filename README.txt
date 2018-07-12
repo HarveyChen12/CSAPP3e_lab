@@ -1,4 +1,4 @@
 # CSAPP3e_lab
-# 2018xxxx Pass the datalab of CH2
-# 20180709 Pass the bomblab of CH3.
+# 20180427 Finish the datalab of CH2
+# 20180709 Finish the bomblab of CH3.
 # 
